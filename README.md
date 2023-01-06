@@ -1,2 +1,2 @@
 # TA
-Course Materials of Teaching Assistant
+Teaching Assistant Course Materials
